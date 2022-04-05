@@ -2,22 +2,19 @@
 
 ## 🚀 About Me
 
-🎓 I am Tapajyoti Bose, a **Front End Web Developer** (specializing in **React Applications**) and a **Top Rated** [**Freelancer**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) on _Upwork_. I am also Pursuing my Bachelor in **Computer Science & Engineering** and will graduate in mid-2022.
+🎓 I am CryptoSnow, a **Fullstack Blockchain Developer** (specializing in **Solana and Rust**) and a **Top Rated** [**Freelancer**](/#) on _Discord_. I am also Pursuing my Bachelor in **Computer Science & Engineering** and will graduate in mid-2014.
 
-👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including, **Material UI**, **Microsoft**, **Amazon**, **Webhint**, and countless others. I am really enthusiastic about learning new technology. In 2021, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Micro-Frontend Architecture** and **Blockchain development & DApps**. I got started with [**Freelancing**](https://www.upwork.com/freelancers/~01c12e516ee1d35044) and [**Blogging**](https://dev.to/ruppysuppy) quite recently and made a name for myself.
+👨‍💻 I enjoy contributing to **Open Source Projects** and have contributed to several Gigantic Organizations including, **Material UI**, **Microsoft**, **Amazon**, **Webhint**, and countless others. I am really enthusiastic about learning new technology. In 2021, I learned **Next.js**, **Progressive Web App (PWA)**, **GraphQL**, **Micro-Frontend Architecture** and **Blockchain development & DApps**. I got started with [**Freelancing**]() and [**Blogging**](https://dev.to/needman0914) quite recently and made a name for myself.
 
 🎸 Outside the world of tech too, I enjoy pushing myself to develop new skills. My hobbies range from **guitar**, **break dancing (hip-hop)**, **sketching**, and **touch typing** to some whacky ones like **writing with my left hand**.
 
 📚 I also love reading books on **personal development** & **financial literacy**. My favorite ones are **The Compound Effect** by _Darren Hardy_ in the genre of personal development and **Rich Dad Poor Dad** by _Robert Kiyosaki_ in the genre of financial literacy.
 
-✈️ I love **traveling** too. I have been on solo trips to **Bhutan** in _2018_ and to **Hyderabad, India** in _2021_.
+✈️ I love **traveling** too. I have been on solo trips to **Bulgaria** in _2018_ and to **Seattle, Canada** in _2020_.
 
 ## 🏅 Achievements
 
 -   📝 **5+ Times Global #1 Weekly Blog Writer** at _Dev_ (January 2022)
--   🏆 **Top Rated** at _Upwork_ (September 2021)
--   ⏫ **Rising Talent** at _Upwork_ (July 2021)
--   🚁 **Mars 2020 Helicopter Mission Contributor** for contributing to _a library ([numpy](https://github.com/numpy/numpy)) used by NASA to fly the Ingenuity Helicopter on Mars_ (April 2021)
 -   ⭐ **Global rank 750** at _Google Kickstart 2020 Round H_ (November 2020)
 -   🤝 **Hacktober Fest Participant** for _adding quality pull requests at Hacktober Fest 2020_ (October 2020)
 -   🥇 **Winner of Coding Competition** at _RCCIIT_ (March 2020)
@@ -28,10 +25,11 @@
 
 ### Languages
 
+![rust](https://img.shields.io/badge/RUST-323330?style=for-the-badge&logo=rust&logoColor=white)
+![solidity](https://img.shields.io/badge/SOLIDITY-28B6F6?style=for-the-badge&logo=SOLIDITY&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![dart](https://img.shields.io/badge/Dart-28B6F6?style=for-the-badge&logo=dart&logoColor=white)
 
 ### Front-End Development
 
@@ -53,10 +51,12 @@
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ### Block-Chain Development
-
+![solana](https://img.shields.io/badge/Solana-3C3C3D?style=for-the-badge&logo=solana&logoColor=white)
 ![ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
 ![web3](https://img.shields.io/badge/Web_3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+![rust](https://img.shields.io/badge/Rust-363636?style=for-the-badge&logo=rust&logoColor=white)
 ![solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+
 
 ### Cross Platform Development
 
