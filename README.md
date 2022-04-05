@@ -12,6 +12,8 @@
 
 ✈️ I love **traveling** too. I have been on solo trips to **Bulgaria** in _2018_ and to **Seattle, Canada** in _2020_.
 
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 ## 🏅 Achievements
 
 -   📝 **5+ Times Global #1 Weekly Blog Writer** at _Dev_ (January 2022)
