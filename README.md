@@ -103,7 +103,7 @@
 
 ## 🔗 Links
 
-[![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://firebasestorage.googleapis.com/v0/b/tapajyoti-bose.appspot.com/o/Tapajyoti%20Bose.pdf?alt=media&token=68b3f3e3-cf56-4666-b4fa-9897c80eec2e)
+<!-- [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://firebasestorage.googleapis.com/v0/b/tapajyoti-bose.appspot.com/o/Tapajyoti%20Bose.pdf?alt=media&token=68b3f3e3-cf56-4666-b4fa-9897c80eec2e) -->
 [![dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=DevdotTo&logoColor=white)](https://dev.to/needman0914)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/needman0914)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:https://github.com/needman0914)
